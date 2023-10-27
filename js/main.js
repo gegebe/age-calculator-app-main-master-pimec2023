@@ -36,7 +36,7 @@ function compareDate(){
    outputDays.textContent = diffDays;
     //span de mesos = 0
     outputMonths.textContent = 0;
-    //span de anys = 0
+    //span de anys = 0;
     outputYears.textContent = 0;
 
     let diffMonths;
